@@ -1,0 +1,234 @@
+<?xml version="1.0"?> 
+ <CSE21 title="UCSD Classes"> 
+
+  <resources>
+	<website>https://sites.google.com/a/eng.ucsd.edu/cse-21-s2020/</website>
+	<calendar>https://sites.google.com/a/eng.ucsd.edu/cse-21-s2020/products-services</calendar>
+	<piazza>https://piazza.com/class/k855wcn55ic4i3</piazza>
+  </resources>
+  
+  <lecture> 
+    <prof>Miles Jones</prof> 
+	<date>
+		<Monday>
+			<time>10:00</time>
+			<time>12:00</time>
+			<duration>0:50</duration>
+		</Monday>
+		<Wednesday>
+			<time>10:00</time>
+			<time>12:00</time>
+			<duration>0:50</duration>
+		</Wednesday>
+		<Friday>
+			<time>10:00</time>
+			<time>12:00</time>
+			<duration>0:50</duration>
+		</Friday>
+	</date>
+    <zoom>3389192810</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/3389192810</zoomlink> 
+  </lecture> 
+  
+  <discussion> 
+	<!--<prof>Miles Jones</prof>-->
+	<date>
+		<Friday>
+			<time>15:00</time>
+			<time>16:00</time>
+			<time>17:00</time>
+			<time>18:00</time>
+			<duration>0:50</duration>
+		</Friday>
+	</date>
+    <zoom>987413633</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/987413633</zoomlink> 
+  </discussion> 
+
+  <officehours> 
+    <name>Miles Jones</name> 
+	<date>
+		<Tuesday>
+			<time>14:30</time>
+			<duration>1:30</duration>
+		</Tuesday>
+		<Wednesday>
+			<time>15:00</time>
+			<duration>1:00</duration>
+		</Wednesday>
+	</date>
+    <zoom>4987586417</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/4987586417</zoomlink> 
+  </officehours> 
+  
+  <officehours> 
+    <name>Vansh C. Singh</name> 
+	<date>
+		<Tuesday>
+			<time>13:30</time>
+			<duration>1:00</duration>
+		</Tuesday>
+	</date>
+    <zoom>4987586417</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/4987586417</zoomlink> 
+  </officehours> 
+  
+   <officehours> 
+    <name>Lad Steffko</name> 
+	<date>
+		<Monday>
+			<timestart>19:00</timestart>
+			<duration>1:00</duration>
+		</Monday>
+	</date>
+    <zoom>4756149688</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/4756149688</zoomlink> 
+  </officehours> 
+  
+   <officehours> 
+    <name>Jor-El Briones</name> 
+	<date>
+		<Wednesday>
+			<timestart>19:00</timestart>
+			<duration>2:00</duration>
+		</Wednesday>
+	</date>
+    <zoom>561677808</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/561677808</zoomlink> 
+  </officehours> 
+  
+  <officehours> 
+    <name>Chad Hayen</name> 
+	<date>
+		<Monday>
+			<timestart>14:00</timestart>
+			<duration>1:00</duration>
+		</Monday>
+		<Wednesday>
+			<timestart>14:00</timestart>
+			<duration>1:00</duration>
+		</Wednesday>
+	</date>
+    <zoom>894223608</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/894223608</zoomlink> 
+  </officehours> 
+  
+  <officehours> 
+    <name>Roger Cheng</name> 
+	<date>
+		<Tuesday>
+			<timestart>17:00</timestart>
+			<duration>2:00</duration>
+		</Tuesday>
+
+	</date>
+    <zoom>7062489780</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/7062489780</zoomlink> 
+  </officehours>
+
+  <officehours> 
+    <name>Qiuyang Wang</name> 
+	<date>
+		<Tuesday>
+			<timestart>9:00</timestart>
+			<duration>2:00</duration>
+		</Tuesday>
+
+	</date>
+    <zoom>5502863417</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/5502863417</zoomlink> 
+  </officehours>
+  
+  <officehours> 
+    <name>Jake Randall Sutton</name> 
+	<date>
+		<Tuesday>
+			<timestart>11:00</timestart>
+			<duration>2:00</duration>
+		</Tuesday>
+
+	</date>
+    <zoom>6286161030</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/6286161030</zoomlink> 
+  </officehours>
+  
+  <officehours> 
+    <name>Wilson Do</name> 
+	<date>
+		<Monday>
+			<timestart>3:00</timestart>
+			<duration>2:30</duration>
+		</Monday>
+	</date>
+    <zoom>387507089</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/387507089</zoomlink> 
+  </officehours>
+  
+  <officehours> 
+    <name>Beverly Li</name> 
+	<date>
+		<Monday>
+			<timestart>8:00</timestart>
+			<duration>2:00</duration>
+		</Monday>
+	</date>
+    <zoom>8138693222</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/8138693222</zoomlink> 
+  </officehours>
+  
+  <officehours> 
+    <name>Jiachen Ma</name> 
+	<date>
+		<Sunday>
+			<timestart>16:00</timestart>
+			<duration>2:00</duration>
+		</Sunday>
+	</date>
+    <zoom>6163148379</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/6163148379</zoomlink> 
+  </officehours>
+  
+  <officehours> 
+    <name>Wesley Xiao</name> 
+	<date>
+		<Wednesday>
+			<timestart>16:00</timestart>
+			<duration>2:00</duration>
+		</Wednesday>
+	</date>
+    <zoom>5717127160</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/5717127160</zoomlink> 
+  </officehours>
+  
+  <officehours> 
+    <name>Aaron Oliver</name> 
+	<date>
+		<Tuesday>
+			<timestart>20:00</timestart>
+			<duration>2:00</duration>
+		</Tuesday>
+	</date>
+    <zoom>9646879711</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/9646879711</zoomlink> 
+  </officehours>
+  
+  <quiz>
+	<!--Special format for now-->
+	<date>
+		<Monday>
+			<timestart>14:00</timestart>
+			<duration>44:00</duration>
+		</Monday>
+		<Wednesday>
+			<timestart>14:00</timestart>
+			<duration>44:00</duration>
+		</Wednesday>
+		<Friday>
+			<timestart>14:00</timestart>
+			<!--Extra time for weekend @172-->
+			<duration>68:00</duration>
+		</Friday>
+	</date>
+  </quiz>
+
+ </classes>
