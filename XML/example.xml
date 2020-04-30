@@ -1,0 +1,133 @@
+<?xml version="1.0"?> 
+ <className title="UCSD Classes"> 
+
+  <resources>
+	<website>https://google.com</website>
+	<calendar>https://google.com</calendar>
+	<piazza>https://google.com</piazza>
+  </resources>
+  
+  <lecture> 
+    <prof>Professor</prof> 
+	<date>
+		<Monday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Monday>
+		<Wednesday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Wednesday>
+		<Friday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Friday>
+	</date>
+    <zoom>1234567890</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/1234567890</zoomlink> 
+  </lecture> 
+  
+  <discussion> 
+	<date>
+		<Friday>
+			<time>00:00</time>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Friday>
+	</date>
+    <zoom>1234567890</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/1234567890</zoomlink> 
+  </discussion> 
+
+  <officehours> 
+    <name>Professor</name> 
+	<date>
+		<Tuesday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Tuesday>
+		<Wednesday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Wednesday>
+	</date>
+    <zoom>1234567890</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/1234567890</zoomlink> 
+  </officehours> 
+  
+  <officehours> 
+    <name>TA</name> 
+	<date>
+		<Tuesday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Tuesday>
+	</date>
+    <zoom>1234567890</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/1234567890</zoomlink> 
+  </officehours> 
+  
+   <officehours> 
+    <name>Tutor</name> 
+	<date>
+		<Thursday>
+			<time>00:00</time>
+			<duration>00:00</duration>
+		</Thursday>
+	</date>
+    <zoom>1234567890</zoom> 
+    <zoomlink>https://ucsd.zoom.us/j/1234567890</zoomlink> 
+  </officehours> 
+  
+  <quiz>
+	<!--Special format for now-->
+	<!--recurring quiz-->
+	<date>
+		<Monday>
+			<timestart>00:00</timestart>
+			<duration>00:00</duration>
+		</Monday>
+		<Friday>
+			<timestart>00:00</timestart>
+			<!--Extra time for weekend @172-->
+			<duration>00:00</duration>
+		</Friday>
+	</date>
+  </quiz>
+  
+  <assignment>
+	<!--Special format for now-->
+	<!--recurring assignment-->
+	<date>
+		<Monday>
+			<timeend>00:00</timeend>
+		</Monday>
+		<Friday>
+			<timeend>00:00</timeend>
+			<!--should be based on due date?-->
+		</Friday>
+	</date>
+  </assignment>
+  
+  <midterms>
+  	<!--Special format for now-->
+	<!--Need to figure out how we should do multiple midterms-->
+	<midterm>
+		<date>2020-02-02</date>
+		<start>09:00</start> 
+	</midterm>
+	
+	<midterm>
+		<date>2021-12-02</date>
+		<start>09:00</start> 
+	</midterm>
+	
+  </midterms>
+  
+  <final>
+	<!--Special format for now-->
+	<date>2020-02-02</date>
+	<start>09:00</start> 
+  </final>
+
+ </classes>

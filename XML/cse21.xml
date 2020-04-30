@@ -13,7 +13,7 @@
 		<Monday>
 			<time>10:00</time>
 			<time>12:00</time>
-			<duration>0:50</duration>
+			<duration>00:50</duration>
 		</Monday>
 		<Wednesday>
 			<time>10:00</time>
@@ -23,7 +23,7 @@
 		<Friday>
 			<time>10:00</time>
 			<time>12:00</time>
-			<duration>0:50</duration>
+			<duration>00:50</duration>
 		</Friday>
 	</date>
     <zoom>3389192810</zoom> 
@@ -38,7 +38,7 @@
 			<time>16:00</time>
 			<time>17:00</time>
 			<time>18:00</time>
-			<duration>0:50</duration>
+			<duration>00:50</duration>
 		</Friday>
 	</date>
     <zoom>987413633</zoom> 
@@ -50,11 +50,11 @@
 	<date>
 		<Tuesday>
 			<time>14:30</time>
-			<duration>1:30</duration>
+			<duration>01:30</duration>
 		</Tuesday>
 		<Wednesday>
 			<time>15:00</time>
-			<duration>1:00</duration>
+			<duration>01:00</duration>
 		</Wednesday>
 	</date>
     <zoom>4987586417</zoom> 
@@ -66,7 +66,7 @@
 	<date>
 		<Tuesday>
 			<time>13:30</time>
-			<duration>1:00</duration>
+			<duration>01:00</duration>
 		</Tuesday>
 	</date>
     <zoom>4987586417</zoom> 
@@ -78,7 +78,7 @@
 	<date>
 		<Monday>
 			<timestart>19:00</timestart>
-			<duration>1:00</duration>
+			<duration>01:00</duration>
 		</Monday>
 	</date>
     <zoom>4756149688</zoom> 
@@ -90,7 +90,7 @@
 	<date>
 		<Wednesday>
 			<timestart>19:00</timestart>
-			<duration>2:00</duration>
+			<duration>02:00</duration>
 		</Wednesday>
 	</date>
     <zoom>561677808</zoom> 
@@ -102,11 +102,11 @@
 	<date>
 		<Monday>
 			<timestart>14:00</timestart>
-			<duration>1:00</duration>
+			<duration>01:00</duration>
 		</Monday>
 		<Wednesday>
 			<timestart>14:00</timestart>
-			<duration>1:00</duration>
+			<duration>01:00</duration>
 		</Wednesday>
 	</date>
     <zoom>894223608</zoom> 
@@ -118,7 +118,7 @@
 	<date>
 		<Tuesday>
 			<timestart>17:00</timestart>
-			<duration>2:00</duration>
+			<duration>02:00</duration>
 		</Tuesday>
 
 	</date>
@@ -130,8 +130,8 @@
     <name>Qiuyang Wang</name> 
 	<date>
 		<Tuesday>
-			<timestart>9:00</timestart>
-			<duration>2:00</duration>
+			<timestart>09:00</timestart>
+			<duration>02:00</duration>
 		</Tuesday>
 
 	</date>
@@ -144,7 +144,7 @@
 	<date>
 		<Tuesday>
 			<timestart>11:00</timestart>
-			<duration>2:00</duration>
+			<duration>02:00</duration>
 		</Tuesday>
 
 	</date>
@@ -156,8 +156,8 @@
     <name>Wilson Do</name> 
 	<date>
 		<Monday>
-			<timestart>3:00</timestart>
-			<duration>2:30</duration>
+			<timestart>03:00</timestart>
+			<duration>02:30</duration>
 		</Monday>
 	</date>
     <zoom>387507089</zoom> 
@@ -168,8 +168,8 @@
     <name>Beverly Li</name> 
 	<date>
 		<Monday>
-			<timestart>8:00</timestart>
-			<duration>2:00</duration>
+			<timestart>08:00</timestart>
+			<duration>02:00</duration>
 		</Monday>
 	</date>
     <zoom>8138693222</zoom> 
@@ -181,7 +181,7 @@
 	<date>
 		<Sunday>
 			<timestart>16:00</timestart>
-			<duration>2:00</duration>
+			<duration>02:00</duration>
 		</Sunday>
 	</date>
     <zoom>6163148379</zoom> 
@@ -193,7 +193,7 @@
 	<date>
 		<Wednesday>
 			<timestart>16:00</timestart>
-			<duration>2:00</duration>
+			<duration>02:00</duration>
 		</Wednesday>
 	</date>
     <zoom>5717127160</zoom> 
@@ -205,7 +205,7 @@
 	<date>
 		<Tuesday>
 			<timestart>20:00</timestart>
-			<duration>2:00</duration>
+			<duration>02:00</duration>
 		</Tuesday>
 	</date>
     <zoom>9646879711</zoom> 
